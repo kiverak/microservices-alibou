@@ -1,0 +1,7 @@
+rootProject.name = 'microservices-alibou'
+
+include 'config-server'
+include 'discovery-server'
+include 'gateway'
+include 'students'
+include 'schools'
